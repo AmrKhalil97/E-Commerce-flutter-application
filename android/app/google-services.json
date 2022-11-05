@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706066449513",
+    "project_id": "vlocks-680cb",
+    "storage_bucket": "vlocks-680cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706066449513:android:d578c1257e7a14496d4ef8",
+        "android_client_info": {
+          "package_name": "com.example.vlocksdone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706066449513-45b6pckeksv32k6226ng5mbnmi3u7lgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrCMQRB4YegQY2AD80x71EVbT2fqc27qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706066449513-45b6pckeksv32k6226ng5mbnmi3u7lgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
