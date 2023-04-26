@@ -8,7 +8,6 @@ Some screenshots:
 
 <h2>Installation:</h2>
 
-
 <h3>1. Unzip the downloaded project and open the project to the preferred IDE (Android Studio / Visual Code)</h3>
 
 
