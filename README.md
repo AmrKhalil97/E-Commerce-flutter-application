@@ -1,6 +1,6 @@
 ![eCommerce](https://i.imgur.com/SraxGPm.png)
 
-![image](https://imgur.com/MahfmKz)
+![image](https://i.imgur.com/MahfmKz.png)
 
 **Start your ecommerce business and manage it from anywhere with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments.
 
